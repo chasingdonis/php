@@ -12,7 +12,7 @@
 			<nav>
 				<ul>
 					<li>Home</li>
-					<li>WordPress</li>
+					<li>Other nav</li>
 				</ul>
 			</nav>
 		</header>
